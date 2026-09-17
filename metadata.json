@@ -1,0 +1,6 @@
+{
+  "name": "Яна | Твой мир на английском",
+  "description": "Интерактивные развивающие английские сканворды: учим английские слова с озвучкой, транскрипцией и словарём.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
